@@ -17,7 +17,7 @@ Add this as a badge to your repo using the below Markdown.
                     Everyone is permitted to copy and distribute verbatim or modified 
                     copies of this license document, and changing it is allowed as long 
                     as the name is changed. Creator and Owner interchangeably refer to 
-                    the legal copyright owner.
+                    the legal copyright holder.
 
                     GREEN TEA PUBLIC LICENSE PUBLIC LICENSE 
                     TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION 
