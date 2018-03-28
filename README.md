@@ -2,8 +2,7 @@
 Green Tea Licence for Software Projects that Just Don't Care
 ---
 
-
-![Green Tea Licence Badge](https://img.shields.io/badge/LICENCE-Green%20Tea-brightgreen.svg?link=https://github.com/DragonStuff/GreenTeaLicence&link=https://github.com/DragonStuff/GreenTeaLicence)    
+[![Green Tea Licence Badge](https://img.shields.io/badge/LICENCE-Green%20Tea-brightgreen.svg?link=https://github.com/DragonStuff/GreenTeaLicence&link=https://github.com/DragonStuff/GreenTeaLicence)](https://github.com/DragonStuff/GreenTeaLicence)    
 Add this as a badge to your repo using the below Markdown.    
 `[![Green Tea Licence Badge](https://img.shields.io/badge/LICENCE-Green%20Tea-brightgreen.svg?link=https://github.com/DragonStuff/GreenTeaLicence&link=https://github.com/DragonStuff/GreenTeaLicence)](https://github.com/DragonStuff/GreenTeaLicence)`
 
